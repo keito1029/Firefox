@@ -5,7 +5,7 @@ firefoxのポリシー管理まとめ
 ## Installation
 
 ```
-cp -rv Firefox/*.json /etc/firefox/policies/
+cp -rv Firefox/policies /etc/firefox/
 ```
 
 ## Reference
