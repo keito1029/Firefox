@@ -5,7 +5,7 @@ firefoxのポリシー管理まとめ
 ## Installation
 
 ```
-cp -rv Firefox/policies /etc/firefox/
+sudo cp -rv Firefox/policies /etc/firefox/
 ```
 
 ## Reference
